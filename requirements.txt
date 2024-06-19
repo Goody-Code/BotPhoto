@@ -1,0 +1,6 @@
+Pillow
+pyTelegramBotAPI
+transformers
+azure-cognitiveservices-vision-computervision
+msrest
+torch
